@@ -1,4 +1,4 @@
 READ BYI - 
 ________________
 
-<span style="color: red;"> Having a depressive episode, please iwc and im sorry if i come off as rude or uninterested. Extremely overwhelmed, insecure and having a hard time keeping convo for long.. </span> 
+<span style="color:pink;" > Having a depressive episode, please iwc and im sorry if i come off as rude or uninterested. Extremely overwhelmed, insecure and having a hard time keeping convo for long.. </span> 
