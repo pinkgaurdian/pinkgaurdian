@@ -1,6 +1,9 @@
 READ BYI - 
 ________________
 
+<div style="background:#f0f0f0; padding:10px; border:1px solid #ccc;">
 Having a depressive episode, please iwc and im sorry if i come off as rude or uninterested.
 
 Extremely overwhelmed, insecure and having a hard time keeping convo for long..
+
+</div>
