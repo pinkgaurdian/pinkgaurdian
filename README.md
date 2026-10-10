@@ -1,5 +1,5 @@
 READ BYI - 
 _
 
-[Having a depressive episode, please iwc and im sorry if i come off as rude or uninterested.‎
-Extremely overwhelmed, insecure and having a hard time keeping convo for long.]
+**Having a depressive episode, please iwc and im sorry if i come off as rude or uninterested.‎
+Extremely overwhelmed, insecure and having a hard time keeping convo for long.**
