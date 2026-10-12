@@ -1,7 +1,1 @@
-READ BYI - 
-
-____
-
-**Having a depressive episode, please iwc and im sorry if i come off as rude or uninterested**‎
-
-**Extremely overwhelmed, insecure and having a hard time keeping convo for long.**
+![](https://i.pinimg.com/originals/fe/f6/6b/fef66b26c4215bd2797c20627e0f6e3d.jpg)
