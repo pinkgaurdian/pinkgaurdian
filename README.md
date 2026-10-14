@@ -115,8 +115,7 @@ $$
 
 <p>
   I like mirrorshipping/selfcest.<br>
-  People who mirrorship minors with adults?<br>
-  Get the absolute hell away from me.
+  People who mirrorship minors with adults get the absolute hell away from me.<br>
 </p>
 
 <p>
@@ -126,8 +125,7 @@ $$
 </p>
 
 <p>
-  I like many fandoms, but some I'm not entirely in,<br>
-  so please be patient if I don't immediately understand.
+  I like many fandoms, but some I'm not entirely in, so please be patient if I don't immediately understand.<br>
 </p>
 
 <p>
@@ -165,8 +163,7 @@ $$
 
 <p>
   Problematic old friends.<br>
-  Petra, stay away from us.<br>
-  Jealous, racist, slur-slinging freakazoid...
+  Petra, stay away from us you jealous, racist, slur-slinging freakazoid...<br> 
 </p>
 
 <p>
