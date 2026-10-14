@@ -13,7 +13,7 @@
   i'm using if you're too shy to talk!
 </p>
 
-<p>♡ ───── ୨୧ ───── ♡</p>
+<p> ───── ୨୧ ───── </p>
 
 ![](https://komarev.com/ghpvc/?username=ruffledram&label=MEWERS+LIVE&color=EB889B)
 
@@ -74,7 +74,7 @@
 
 <p>
   please sign
-  <a href="https://ruffledram.atabook.org/">新book</a> ♡
+  <a href="https://ruffledram.atabook.org/">新book</a> !!!
 </p>
 
 </td>
