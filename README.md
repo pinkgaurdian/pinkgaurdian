@@ -1,213 +1,98 @@
-<!-- HEADER -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E293E,50:B86C85,100:F5CED8&height=150&section=header&text=welcome%20to%20my%20stinky%20page...&fontColor=FFF2DC&fontSize=30&fontAlignY=38&animation=fadeIn" width="100%" alt="Welcome to my stinky page">
+<img align="left" src="https://64.media.tumblr.com/c82cdb6d56d5fa1498b7efee1deb1871/293ae01018e8372b-37/s500x750/91007fc76bc2f11c262f84f98c641a5d986c6a95.pnj" width="450" alt="Deltarune sprite">
 
-<br>
+<table width="100%">
+<tr>
+<td align="center" width="100%">
 
-<!-- PONY SPRITE -->
+<h3>hai, i'm Ruffy!</h3>
 
-<img src="https://media.tenor.com/LcVXpcQp58UAAAAj/deltarune-pink.gif" alt="Pink Deltarune gif" width="150">
+<p>
+  don't be afraid to call me by the pony<br>
+  i'm using if you're too shy to talk!
+</p>
 
-</div>
+<p>
+  demi-pan - she / they pronouns work!
+</p>
 
-$$
-\color{#B86C85}{\textsf{Hai!\ I'm\ Ruffy,\ but\ I\ don't\ mind\ any\ names!}}
-$$
+<p>♡ ───── ୨୧ ───── ♡</p>
 
-$$
-\color{#D98CA7}{\text{♡ ───── ୨୧ ───── ♡}}
-$$
+<br clear="all">
 
-$$
-\color{#6E293E}{\textsf{she\ /\ they\ \ ♡\ \ demi-pansexual}}
-$$
-
-
-
-$$
-\color{#B86C85}{\textsf{Don't\ be\ afraid\ to\ call\ me\ by\ the\ pony}}
-$$
-
-$$
-\color{#B86C85}{\textsf{I'm\ using\ if\ you're\ too\ shy\ to\ ask!}}
-$$
-
-$$
-\color{#D98CA7}{\text{♡ ───── ୨୧ ───── ♡}}
-$$
-
-$$
-\color{#B86C85}{\textsf{♡\ happily\ taken\ by\ ♡}}
-$$
-
-<div align="center">
-
-<a href="https://github.com/raspberry-sprout"><b>@raspberry-sprout</b></a>
-
-$$
-\color{#D98CA7}{\text{♡ ───── ୨୧ ───── ♡}}
-$$
-
-</div>
-
-<!-- ABOUT ME -->
-
-$$
-\color{#6E293E}{\Large\textsf{♡\ a\ little\ about\ me\ ♡}}
-$$
-
-$$
-\color{#B86C85}{\textsf{Sonic\ fan\ for\ 6+\ years!}}
-$$
-
-$$
-\color{#B86C85}{\textsf{My\ favorites\ are\ STC/Fleetway\ Sonic}}
-$$
-
-$$
-\color{#B86C85}{\textsf{and\ Extra\ Life\ Sonic\ from\ the\ same\ comic.}}
-$$
-
-$$
-\color{#B86C85}{\textsf{I\ like\ lots\ of\ different\ fandoms,}}
-$$
-
-$$
-\color{#B86C85}{\textsf{even\ if\ I'm\ not\ active\ in\ all\ of\ them!}}
-$$
-
-$$
-\color{#D98CA7}{\small\textsf{please\ be\ patient\ if\ I\ don't\ understand}}
-$$
-
-$$
-\color{#D98CA7}{\small\textsf{something\ right\ away\ ♡}}
-$$
-
-$$
-\color{#D98CA7}{\text{♡ ───── ୨୧ ───── ♡}}
-$$
-
-<!-- BEFORE INTERACTING -->
-
-$$
-\color{#6E293E}{\Large\textsf{୨୧\ before\ interacting\ ୨୧}}
-$$
-
-$$
-\color{#B86C85}{\textsf{please\ read\ these\ before\ getting\ to\ know\ me!}}
-$$
-
-
-
-<!-- BYI SECTION -->
+![](https://komarev.com/ghpvc/?username=ruffledram&label=mewers+live&color=EB889B&style=flat")
 
 <details>
-<summary>୨୧ BYI</summary>
+<summary>୨୧ byi</summary>
 
-<div align="center">
-
-<p>♡ ─────── ୨୧ ─────── ♡</p>
-
-<p>
   I'm demi-pansexual and go by she/they pronouns.
-</p>
 
-<p>
   I like mirrorshipping/selfcest.<br>
-  People who mirrorship minors with adults get the absolute hell away from me.<br>
+  People who mirrorship 
+  with minors/adults 
+  get the hell away from me.
+
+  Sonic fan for 6+ years, 
+  but my favorite Sonics<br>
+  are STC/Fleetway Sonic 
+  \and Extra Life Sonic.
+
+  Don't be afraid to 
+  c+h, int, or take inspo<br>
+  from my skins! 
+  Pls don't rip off my work though...
+
+  I like many fandoms, but some 
+  I'm not entirely in,<br>
+  so please be patient if I don't 
+  immediately understand a ref.
+
+  I love my friends dearly, 
+  so don't get on their bad side,<br>
+  because I will avoid you.
 </p>
 
-<p>
-  Don't be afraid to c+h, int,<br>
-  or take inspiration from my skins!<br>
-  Please don't rip off my work, though.
-</p>
-
-<p>
-  I like many fandoms, but some I'm not entirely in, so please be patient if I don't immediately understand.<br>
-</p>
-
-<p>
-  I love my friends dearly, so don't get on<br>
-  their bad side, because I will avoid you.
-</p>
-
-<p>♡ ─────── ୨୧ ─────── ♡</p>
-
-</div>
 </details>
 
-<br>
-
-<!-- DNI SECTION -->
-
 <details>
-<summary>୨୧ DNI</summary>
-
-<div align="center">
-
-<p>♡ ─────── ୨୧ ─────── ♡</p>
+<summary>୨୧ dni</summary>
 
 <p>Basic DNI criteria.</p>
 
 <p>
-  FleetEbony shippers.<br>
-  I don't mind other ships!<br>
-  I'm okay with Sonadow, but I don't personally ship it.
+  FleetEbony shippers (idm any other ships!<br>
+  I'm okay with Sonadow, but I don't personally ship it!).
 </p>
+
+<p>Mirrorship/selfcest ship haters.</p>
 
 <p>
-  Mirrorship/selfcest ship haters.
+  Problematic old friends (Petra, stay tf away from us,<br>
+  you jealous, racist, slur-slinging freakazoid).
 </p>
 
-<p>
-  Problematic old friends.<br>
-  Petra, stay away from us you jealous, racist, slur-slinging freakazoid...<br> 
-</p>
+<p>Anyone else not listed here, int pls!</p>
 
-<p>
-  Anyone else not listed here, int pls!
-</p>
-
-<p>♡ ─────── ୨୧ ─────── ♡</p>
-
-</div>
 </details>
 
-<br>
+<p>
+  please sign
+  <a href="https://ruffledram.atabook.org/">新book</a> ♡
+</p>
 
-
-<!-- GUESTBOOK -->
-
-
-
-$$
-\color{#B86C85}{\textsf{Please\ sign\ my\ ata!!\ ♡}}
-$$
-
-<div align="center">
-
-<a href="https://ruffledram.atabook.org/">
-  <img src="https://img.shields.io/badge/%E2%99%A1%20my%20atabook-%237C344C?style=for-the-badge&labelColor=F5D6DC&logoColor=7C344C" alt="Sign my Atabook">
+<a href="https://github.com/kittinan/spotify-github-profile">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31seofcbs3nhcviqd3wzjugyq3ce&amp;cover_image=true&amp;theme=novatorem&amp;show_offline=false&amp;background_color=ba1212&amp;interchange=false&amp;profanity=false&amp;hide_remaster=false&amp;bar_color=2e93ff&amp;bar_color_cover=false" alt="Spotify currently listening">
 </a>
 
-<br><br>
+</td>
+</tr>
+</table>
 
-</div>
-
-$$
-\color{#D98CA7}{\text{♡ ───── ⋆ ୨୧ ⋆ ───── ♡}}
-$$
-
-
-
-<!-- FOOTER -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E293E,50:B86C85,100:F5CED8&height=90&section=footer" width="100%" alt="Pink decorative footer">
+<p align="center">
+  <sub>
+  art by <a href="https://www.tumblr.com/xxvampiraxx"><b>@xxvampiraxx</b></a> on tumblr! 
+  </sub>
+</p>
 
 </div>
