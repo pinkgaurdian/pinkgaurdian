@@ -13,10 +13,6 @@
   i'm using if you're too shy to talk!
 </p>
 
-<p>
-  demi-pan - she / they pronouns work!
-</p>
-
 <p>♡ ───── ୨୧ ───── ♡</p>
 
 <br clear="all">
