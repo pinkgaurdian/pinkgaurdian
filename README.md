@@ -21,7 +21,7 @@
 
 <br clear="all">
 
-![](https://komarev.com/ghpvc/?username=ruffledram&label=Mewers+Live&color=EB889B&style=flat")
+![](https://komarev.com/ghpvc/?username=ruffledram&label=MEWERS+LIVE&color=EB889B)
 
 <details>
 <summary>୨୧ byi</summary>
