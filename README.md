@@ -2,9 +2,9 @@
 
 <img align="left" src="https://64.media.tumblr.com/c82cdb6d56d5fa1498b7efee1deb1871/293ae01018e8372b-37/s500x750/91007fc76bc2f11c262f84f98c641a5d986c6a95.pnj" width="400" alt="Deltarune sprite">
 
-<table width="100%">
+<table width="150%">
 <tr>
-<td align="center" width="100%">
+<td align="center" width="150%">
 
 <h3>hai, i'm Ruffy!</h3>
 
