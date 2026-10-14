@@ -75,7 +75,7 @@
 </div>
 
 <details>
-<summary>🌷 ୨୧ BYI — before you interact</summary>
+<summary>🌷 ୨୧ BYI — </summary>
 
 <br>
 
@@ -115,7 +115,7 @@
 <br>
 
 <details>
-<summary>🥀 ୨୧ DNI — do not interact</summary>
+<summary>🥀 ୨୧ DNI — </summary>
 
 <br>
 
