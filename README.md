@@ -157,7 +157,7 @@
 <h3>୨୧　leave me a message!　୨୧</h3>
 
 <p>
-  <i>say hello, leave a note, or just stop by ♡</i>
+  <i>Please sign my ata !!♡</i>
 </p>
 
 <a href="https://ruffledram.atabook.org/">
