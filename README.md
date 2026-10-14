@@ -24,7 +24,7 @@
 
   I'm demi-pansexual and go by she/they pronouns.
 
-  I like mirrorshipping/selfcest.<br>
+  I like mirrorshipping.<br>
   People who mirrorship 
   with minors/adults 
   get the hell away from me.
