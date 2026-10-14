@@ -1,6 +1,6 @@
 <div align="center">
 
-<img align="left" src="https://64.media.tumblr.com/c82cdb6d56d5fa1498b7efee1deb1871/293ae01018e8372b-37/s500x750/91007fc76bc2f11c262f84f98c641a5d986c6a95.pnj" width="375" alt="Deltarune sprite">
+<img align="left" src="https://64.media.tumblr.com/c82cdb6d56d5fa1498b7efee1deb1871/293ae01018e8372b-37/s500x750/91007fc76bc2f11c262f84f98c641a5d986c6a95.pnj" width="360" alt="Deltarune sprite">
 
 <table>
 <tr>
