@@ -12,7 +12,22 @@
 
 <br>
 
-<h3>୨୧　hello, i'm ruffy!　୨୧</h3>
+<h3>୨୧　hai, i'm Ruffy!　୨୧</h3>
+
+<div align="center">
+
+<p>♡ ───── ୨୧ ───── ♡</p>
+
+<p>
+  <i>♡ happily taken by ♡</i><br>
+  <a href="https://github.com/raspberry-sprout">
+    <b>@raspberry-sprout</b>
+  </a>
+</p>
+
+<p>♡ ───── ୨୧ ───── ♡</p>
+
+</div>
 
 <p>
   <i>she / they　♡　demi-pansexual</i>
