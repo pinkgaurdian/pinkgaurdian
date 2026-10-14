@@ -48,6 +48,6 @@ Anyone else not listed here, int pls!
 
 
 <p align="center">
-  <a href="(https://ruffledram.atabook.org/)">♡ my atabook ♡</a>
+  <a href="(https://ruffledram.atabook.org/)">新book</a>
 </p>
 
