@@ -13,7 +13,25 @@
 </div>
 
 $$
-\color{#B86C85}{\Large\textsf{୨୧\ hai,\ i'm\ Ruffy!\ ୨୧}}
+\color{#B86C85}{\textsf{Hai!\ I'm\ Ruffy,\ but\ I\ don't\ mind\ any\ names!}}
+$$
+
+$$
+\color{#D98CA7}{\text{♡ ───── ୨୧ ───── ♡}}
+$$
+
+$$
+\color{#6E293E}{\textsf{she\ /\ they\ \ ♡\ \ demi-pansexual}}
+$$
+
+
+
+$$
+\color{#B86C85}{\textsf{Don't\ be\ afraid\ to\ call\ me\ by\ the\ pony}}
+$$
+
+$$
+\color{#B86C85}{\textsf{I'm\ using\ if\ you're\ too\ shy\ to\ ask!}}
 $$
 
 $$
@@ -28,31 +46,11 @@ $$
 
 <a href="https://github.com/raspberry-sprout"><b>@raspberry-sprout</b></a>
 
-</div>
-
 $$
 \color{#D98CA7}{\text{♡ ───── ୨୧ ───── ♡}}
 $$
 
-$$
-\color{#6E293E}{\textsf{she\ /\ they\ \ ♡\ \ demi-pansexual}}
-$$
-
-$$
-\color{#B86C85}{\textsf{Hai!\ I'm\ Ruffy,\ but\ I\ don't\ mind\ any\ names!}}
-$$
-
-$$
-\color{#B86C85}{\textsf{Don't\ be\ afraid\ to\ call\ me\ by\ the\ pony}}
-$$
-
-$$
-\color{#B86C85}{\textsf{I'm\ using\ if\ you're\ too\ shy\ to\ ask!}}
-$$
-
-$$
-\color{#D98CA7}{\text{♡ ───── ⋆ ୨୧ ⋆ ───── ♡}}
-$$
+</div>
 
 <!-- ABOUT ME -->
 
@@ -86,6 +84,10 @@ $$
 
 $$
 \color{#D98CA7}{\small\textsf{something\ right\ away\ ♡}}
+$$
+
+$$
+\color{#D98CA7}{\text{♡ ───── ୨୧ ───── ♡}}
 $$
 
 <!-- BEFORE INTERACTING -->
@@ -189,7 +191,7 @@ $$
 <div align="center">
 
 <a href="https://ruffledram.atabook.org/">
-  <img src="https://img.shields.io/badge/%E2%99%A1%20sign%20my%20atabook-%237C344C?style=for-the-badge&labelColor=F5D6DC&logoColor=7C344C" alt="Sign my Atabook">
+  <img src="https://img.shields.io/badge/%E2%99%A1%20my%20atabook-%237C344C?style=for-the-badge&labelColor=F5D6DC&logoColor=7C344C" alt="Sign my Atabook">
 </a>
 
 <br><br>
