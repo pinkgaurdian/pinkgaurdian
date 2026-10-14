@@ -15,8 +15,6 @@
 
 <p>♡ ───── ୨୧ ───── ♡</p>
 
-<br clear="all">
-
 ![](https://komarev.com/ghpvc/?username=ruffledram&label=MEWERS+LIVE&color=EB889B)
 
 <details>
