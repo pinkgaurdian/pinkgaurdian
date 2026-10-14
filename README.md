@@ -2,9 +2,9 @@
 
 <img align="left" src="https://64.media.tumblr.com/c82cdb6d56d5fa1498b7efee1deb1871/293ae01018e8372b-37/s500x750/91007fc76bc2f11c262f84f98c641a5d986c6a95.pnj" width="400" alt="Deltarune sprite">
 
-<table width="150%">
+<table>
 <tr>
-<td align="center" width="150%">
+<td align="center">
 
 <h3>hai, i'm Ruffy!</h3>
 
@@ -86,13 +86,14 @@
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31seofcbs3nhcviqd3wzjugyq3ce&amp;cover_image=true&amp;theme=novatorem&amp;show_offline=false&amp;background_color=ba1212&amp;interchange=false&amp;profanity=false&amp;hide_remaster=false&amp;bar_color=2e93ff&amp;bar_color_cover=false" alt="Spotify currently listening">
 </a>
 
+
 </td>
 </tr>
 </table>
 
-<p align="center">
+<p>
   <sub>
-  art by <a href="https://www.tumblr.com/xxvampiraxx"><b>@xxvampiraxx</b></a> on tumblr! 
+    art by <a href="https://www.tumblr.com/xxvampiraxx"><b>@xxvampiraxx</b></a> on tumblr!
   </sub>
 </p>
 
