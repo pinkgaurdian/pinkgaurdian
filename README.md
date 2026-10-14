@@ -6,7 +6,7 @@
 <tr>
 <td align="center">
 
-<h3>hai, i'm Ruffy!</h3>
+<h3>hai, i'm Ruffy or Pink!</h3>
 
 <p>
   don't be afraid to call me by the pony<br>
