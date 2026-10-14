@@ -1,53 +1,166 @@
-<p align="center">
-  <img src="https://media.tenor.com/LcVXpcQp58UAAAAj/deltarune-pink.gif" alt="Animated demo" width="150" />
+<div align="center">
+
+<!-- HEADER -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E293E,50:B86C85,100:F5CED8&height=150&section=header&text=welcome%20to%20ruffy's%20page!&fontColor=FFF2DC&fontSize=30&fontAlignY=38&animation=fadeIn" width="100%" alt="Welcome to Ruffy's page">
+
+<br>
+
+<!-- PONY SPRITE -->
+
+<img src="https://media.tenor.com/LcVXpcQp58UAAAAj/deltarune-pink.gif" alt="Pink Deltarune pony" width="150">
+
+<br>
+
+<h3>୨୧　hello, i'm ruffy!　୨୧</h3>
+
+<p>
+  <i>she / they　♡　demi-pansexual</i>
 </p>
 
-<p align="center"> Hai I'm Ruffy, but I don't mind any names! And don't be afraid to call me by the pony I'm using if your to shy though ! </p>
+<p>
+  Hai! I'm Ruffy, but I don't mind any names!<br>
+  Don't be afraid to call me by the pony I'm using<br>
+  if you're too shy to ask!
+</p>
+
+<p>
+  ♡ ─────── ⋆ ˚｡⋆୨୧⋆｡˚ ⋆ ─────── ♡
+</p>
+
+<!-- ABOUT ME -->
+
+<h3>♡　a little about me　♡</h3>
+
+<p>
+  Sonic fan for 6+ years!<br>
+  My favorites are <b>STC/Fleetway Sonic</b><br>
+  and <b>Extra Life Sonic</b> from the same comic.
+</p>
+
+<p>
+  I like lots of different fandoms,<br>
+  even if I'm not active in all of them!
+</p>
+
+<p>
+  <sub>please be patient if I don't understand something right away ♡</sub>
+</p>
+
+<br>
+
+<!-- BYI AND DNI -->
+
+<h3>୨୧　before interacting　୨୧</h3>
+
+<p>
+  <i>please read these before getting to know me!</i>
+</p>
+
+</div>
 
 <details>
-<summary>୨୧ BYI</summary>
+<summary>🌷 ୨୧ BYI — before you interact</summary>
 
-<p align="center">
+<br>
 
-I'm demi-pansexual and go by she/they pronouns.
+<div align="center">
 
-I like mirrorshipping/selfcest. People who mirrorship with minors/adults, get the hell away from me.
-
-Sonic fan for 6+ years, but my favorite Sonics are STC/Fleetway Sonic and Extra Life Sonic from the same comic.
-
-Don't be afraid to c+h, int, or take inspo from my skins! Pls don't rip off my work though...
-
-I like many fandoms, but some I'm not entirely in, so please be patient if I don't immediately understand.
-
-I love my friends dearly, so don't get on their bad side, because I will avoid you.
-
+<p>
+  I'm demi-pansexual and go by she/they pronouns.
 </p>
 
+<p>
+  I like mirrorshipping/selfcest.<br>
+  People who mirrorship minors with adults?<br>
+  get the absolute hell away from me.
+</p>
+
+<p>
+  Don't be afraid to c+h, int,<br>
+  or take inspiration from my skins!<br>
+  Please don't rip off my work, though.
+</p>
+
+<p>
+  I like many fandoms, but some I'm not entirely in,<br>
+  so please be patient if I don't immediately understand.
+</p>
+
+<p>
+  I love my friends dearly, so don't get on<br>
+  their bad side, because I will avoid you.
+</p>
+
+<p>♡ ─────── ୨୧ ─────── ♡</p>
+
+</div>
 </details>
 
+<br>
 
 <details>
-<summary>୨୧ DNI</summary>
+<summary>🥀 ୨୧ DNI — do not interact</summary>
 
-<p align="center">
+<br>
 
-Basic DNI criteria.
+<div align="center">
 
-FleetEbony shippers (idm any other ships! I'm okay with Sonadow, but I don't personally ship it!).
+<p>Basic DNI criteria.</p>
 
-Mirrorship/selfcest ship haters.
-
-Problematic old friends (Petra, stay tf away from us, you jealous, racist, slur-slinging freakazoid).
-
-Anyone else not listed here, int pls!
-
+<p>
+  FleetEbony shippers.<br>
+  I don't mind other ships!<br>
+  I'm okay with Sonadow, but I don't personally ship it.
 </p>
 
+<p>
+  Mirrorship/selfcest ship haters.
+</p>
+
+<p>
+  Problematic old friends.<br>
+  Petra, stay away from us.<br>
+  jealous, racist, slur-slinging freakazoid...<br>
+</p>
+
+<p>
+  Anyone else not listed here, int pls!
+</p>
+
+<p>♡ ─────── ୨୧ ─────── ♡</p>
+
+</div>
 </details>
 
+<br>
 
+<div align="center">
 
-<p align="center">
-  <a href="(https://ruffledram.atabook.org/)">新book</a>
+<!-- GUESTBOOK -->
+
+<h3>୨୧　leave me a message!　୨୧</h3>
+
+<p>
+  <i>say hello, leave a note, or just stop by ♡</i>
 </p>
+
+<a href="https://ruffledram.atabook.org/">
+  <img src="https://img.shields.io/badge/%E2%99%A1%20sign%20my%20atabook-%237C344C?style=for-the-badge&labelColor=F5D6DC&logoColor=7C344C" alt="Sign my Atabook">
+</a>
+
+<br><br>
+
+<!-- FOOTER -->
+
+<p>✧･ﾟ: *✧･ﾟ:*　♡　*:･ﾟ✧*:･ﾟ✧</p>
+
+<p>
+  <sub>thanks for visiting my little corner of the internet!</sub>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E293E,50:B86C85,100:F5CED8&height=90&section=footer" width="100%" alt="Pink decorative footer">
+
+</div>
+
 
