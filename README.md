@@ -32,21 +32,21 @@
   Sonic fan for 6+ years, 
   but my favorite Sonics<br>
   are STC/Fleetway Sonic 
-  \and Extra Life Sonic.
+  and Extra Life Sonic.
 
   Don't be afraid to 
   c+h, int, or take inspo<br>
-  from my skins! 
-  Pls don't rip off my work though...
+  from my skins! but 
+  Pls don't rip off my work...
 
   I like many fandoms, but some 
   I'm not entirely in,<br>
   so please be patient if I don't 
   immediately understand a ref.
 
-  I love my friends dearly, 
+  I love my friends, 
   so don't get on their bad side,<br>
-  because I will avoid you.
+  because I WILL avoid you.
 
 </p>
 
