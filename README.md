@@ -72,9 +72,6 @@
 
 </details>
 
-
-<!-- OTHER -->
-
 <details>
 <summary>୨୧ other</summary>
 
@@ -92,7 +89,6 @@
 </p>
 
 </details>
-
 
 <p>
   please sign
