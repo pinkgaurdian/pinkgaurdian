@@ -15,7 +15,7 @@
 
 <p> ───── ୨୧ ───── </p>
 
-![](https://komarev.com/ghpvc/?username=ruffledram&label=MEWERS+LIVE&color=#EB889B)
+![](https://komarev.com/ghpvc/?username=ruffledram&label=MEWERS+LIVE&color=EB889B)
 
 <details>
 <summary>୨୧ byi</summary>
