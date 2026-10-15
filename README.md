@@ -74,7 +74,7 @@
 
 <p>
   please sign
-  <a href="https://ruffledram.atabook.org/">新book</a> !!!
+  <a href="https://pinkkitty.atabook.org/">新book</a> mew !!!
 </p>
 
 </td>
