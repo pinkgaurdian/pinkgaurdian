@@ -72,6 +72,28 @@
 
 </details>
 
+
+<!-- OTHER -->
+
+<details>
+<summary>୨୧ other</summary>
+
+<br>
+
+<p>
+  discord : ruffledram
+</p>
+
+<p>
+  main github :
+  <a href="https://github.com/ruffledram">
+    @ruffledram
+  </a>
+</p>
+
+</details>
+
+
 <p>
   please sign
   <a href="https://pinkkitty.atabook.org/">新book</a> mew !!!
