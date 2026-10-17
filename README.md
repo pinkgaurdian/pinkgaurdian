@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img align="left" src="https://64.media.tumblr.com/c82cdb6d56d5fa1498b7efee1deb1871/293ae01018e8372b-37/s500x750/91007fc76bc2f11c262f84f98c641a5d986c6a95.pnj" width="360" alt="Deltarune sprite">
@@ -6,93 +7,81 @@
 <tr>
 <td align="center">
 
-<h3>hai, this is my DR acc!</h3>
+<h3>$\color{#E56B9F}{hai,}$ $\color{#FFD3E5}{this}$ $\color{#FF85B3}{is}$ $\color{#F3A6C8}{my}$ $\color{#D95C96}{DR}$ $\color{#FFBDE0}{acc!}$</h3>
 
 <p>
-  don't be afraid to call me by the pony<br>
-  i'm using if you're too shy to talk!
+$\color{#F3A6C8}{don't}$ $\color{#E56B9F}{be}$ $\color{#FFD3E5}{afraid}$ $\color{#FF85B3}{to}$ $\color{#F7B5D0}{call}$ $\color{#D95C96}{me}$ $\color{#FFD3E5}{by}$ $\color{#F3A6C8}{the}$ $\color{#E56B9F}{pony}$<br>
+$\color{#FFBDE0}{i'm}$ $\color{#E56B9F}{using}$ $\color{#F3A6C8}{if}$ $\color{#FFD3E5}{you're}$ $\color{#FF85B3}{too}$ $\color{#F7B5D0}{shy}$ $\color{#D95C96}{to}$ $\color{#FFD3E5}{talk!}$
 </p>
 
-<p> ───── ୨୧ ───── </p>
+<p>$\color{#F7B5D0}{─────}$ $\color{#E56B9F}{୨୧}$ $\color{#FFD3E5}{─────}$</p>
 
 ![](https://komarev.com/ghpvc/?username=ruffledram&label=MEWERS+LIVE&color=EB889B)
 
 <details>
-<summary>୨୧ byi</summary>
+<summary>୨୧ $\color{#E56B9F}{byi}$</summary>
 
-  I'm demi-pansexual and go by she/they pronouns.
+<p>
+$\color{#E56B9F}{I'm}$ $\color{#FFD3E5}{demi-pansexual}$ $\color{#F3A6C8}{and}$ $\color{#FF85B3}{go}$ $\color{#F7B5D0}{by}$ $\color{#D95C96}{she/they}$ $\color{#FFD3E5}{pronouns.}$
+</p>
 
-  I like mirrorshipping.<br>
-  People who mirrorship 
-  with minors/adults 
-  get the hell away from me.
+<p>
+$\color{#FF85B3}{I}$ $\color{#F3A6C8}{like}$ $\color{#E56B9F}{mirrorshipping.}$
+</p>
 
-  Sonic fan for 6+ years, 
-  but my favorite Sonics<br>
-  are STC/Fleetway Sonic 
-  and Extra Life Sonic.
+<p>
+$\color{#E56B9F}{Don't}$ $\color{#FFD3E5}{be}$ $\color{#FF85B3}{afraid}$ $\color{#F3A6C8}{to}$<br>
+$\color{#D95C96}{c+h,}$ $\color{#F7B5D0}{int,}$ $\color{#FFD3E5}{or}$ $\color{#E56B9F}{take}$ $\color{#FF85B3}{inspo}$<br>
+$\color{#F3A6C8}{from}$ $\color{#FFD3E5}{my}$ $\color{#E56B9F}{skins!}$ $\color{#FFBDE0}{but}$<br>
+$\color{#D95C96}{Pls}$ $\color{#FF85B3}{don't}$ $\color{#FFD3E5}{rip}$ $\color{#F3A6C8}{off}$ $\color{#E56B9F}{my}$ $\color{#F7B5D0}{work...}$
+</p>
 
-  Don't be afraid to 
-  c+h, int, or take inspo<br>
-  from my skins! but 
-  Pls don't rip off my work...
-
-  I like many fandoms, but some 
-  I'm not entirely in,<br>
-  so please be patient if I don't 
-  immediately understand a ref.
-
-  I love my friends, 
-  so don't get on their bad side,<br>
-  because I WILL avoid you.
-
+<p>
+$\color{#E56B9F}{I}$ $\color{#FFD3E5}{like}$ $\color{#FF85B3}{many}$ $\color{#F3A6C8}{fandoms,}$ $\color{#D95C96}{but}$ $\color{#FFBDE0}{some}$<br>
+$\color{#F7B5D0}{I'm}$ $\color{#E56B9F}{not}$ $\color{#FFD3E5}{entirely}$ $\color{#FF85B3}{in,}$<br>
+$\color{#F3A6C8}{so}$ $\color{#D95C96}{please}$ $\color{#FFD3E5}{be}$ $\color{#E56B9F}{patient}$ $\color{#F7B5D0}{if}$ $\color{#FF85B3}{I}$ $\color{#F3A6C8}{don't}$<br>
+$\color{#FFBDE0}{immediately}$ $\color{#E56B9F}{understand}$ $\color{#FFD3E5}{a}$ $\color{#D95C96}{ref.}$
 </p>
 
 </details>
 
 <details>
-<summary>୨୧ dni</summary>
-
-<p>Basic DNI criteria.</p>
+<summary>୨୧ $\color{#D95C96}{dni}$</summary>
 
 <p>
-  FleetEbony shippers (idm any other ships!<br>
-  I'm okay with Sonadow, 
-  but I don't personally ship it!).
+$\color{#FF85B3}{Basic}$ $\color{#FFD3E5}{DNI}$ $\color{#E56B9F}{criteria.}$
 </p>
-
-<p>Mirrorship haters.</p>
 
 <p>
-  Problematic old friends (Petra, stay tf away from me,<br>
-  you jealous, racist, slur-slinging bum).
+$\color{#F3A6C8}{Mirrorship}$ $\color{#D95C96}{haters.}$
 </p>
 
-<p>Anyone not listed here, int pls!</p>
+<p>
+$\color{#FFD3E5}{Anyone}$ $\color{#FF85B3}{not}$ $\color{#F7B5D0}{listed}$ $\color{#E56B9F}{here,}$ $\color{#D95C96}{int}$ $\color{#FFBDE0}{pls!}$
+</p>
 
 </details>
 
 <details>
-<summary>୨୧ other</summary>
+<summary>୨୧ $\color{#FF85B3}{other}$</summary>
 
 <br>
 
 <p>
-  discord : ruffledram
+$\color{#F3A6C8}{discord}$ $\color{#FFD3E5}{:}$ $\color{#E56B9F}{ruffledram}$
 </p>
 
 <p>
-  main github :
-  <a href="https://github.com/ruffledram">
-    @ruffledram
-  </a>
+$\color{#F7B5D0}{main}$ $\color{#FFD3E5}{github}$ $\color{#FF85B3}{:}$
+<a href="https://github.com/ruffiest">$\color{#E56B9F}{@ruffiest}$</a>
 </p>
 
 </details>
 
 <p>
-  please sign
-  <a href="https://pinkkitty.atabook.org/">新book</a> mew !!!
+$\color{#E56B9F}{please}$ $\color{#FFD3E5}{sign}$
+<a href="https://pinkkitty.atabook.org/">$\color{#FF85B3}{新book}$</a>
+$\color{#F3A6C8}{mew}$ $\color{#D95C96}{!!!}$
 </p>
 
 </td>
@@ -101,12 +90,10 @@
 
 <p>
   <sub>
-    art by <a href="https://www.tumblr.com/xxvampiraxx"><b>@xxvampiraxx</b></a> on tumblr!
+    $\color{#F3A6C8}{art}$ $\color{#FFD3E5}{by}$
+    <a href="https://www.tumblr.com/xxvampiraxx"><b>$\color{#E56B9F}{@xxvampiraxx}$</b></a>
+    $\color{#FF85B3}{on}$ $\color{#F7B5D0}{tumblr!}$
   </sub>
 </p>
-
-<a href="https://github.com/kittinan/spotify-github-profile">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31seofcbs3nhcviqd3wzjugyq3ce&amp;cover_image=true&amp;theme=novatorem&amp;show_offline=false&amp;background_color=ba1212&amp;interchange=false&amp;profanity=false&amp;hide_remaster=false&amp;bar_color=2e93ff&amp;bar_color_cover=false" alt="Spotify currently listening">
-</a>
 
 </div>
