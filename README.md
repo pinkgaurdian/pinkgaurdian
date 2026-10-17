@@ -73,14 +73,14 @@ $\color{#F3A6C8}{discord}$ $\color{#FFD3E5}{:}$ $\color{#E56B9F}{ruffledram}$
 
 <p>
 $\color{#F7B5D0}{main}$ $\color{#FFD3E5}{github}$ $\color{#FF85B3}{:}$
-<a href="https://github.com/ruffiest">$\color{#E56B9F}{@ruffiest}$</a>
+<a href="https://github.com/ruffiest">@ruffiest</a>
 </p>
 
 </details>
 
 <p>
 $\color{#E56B9F}{please}$ $\color{#FFD3E5}{sign}$
-<a href="https://pinkkitty.atabook.org/">$\color{#FF85B3}{新book}$</a>
+<a href="https://pinkkitty.atabook.org/">新book</a>
 $\color{#F3A6C8}{mew}$ $\color{#D95C96}{!!!}$
 </p>
 
@@ -91,7 +91,7 @@ $\color{#F3A6C8}{mew}$ $\color{#D95C96}{!!!}$
 <p>
   <sub>
     $\color{#F3A6C8}{art}$ $\color{#FFD3E5}{by}$
-    <a href="https://www.tumblr.com/xxvampiraxx"><b>$\color{#E56B9F}{@xxvampiraxx}$</b></a>
+    <a href="https://www.tumblr.com/xxvampiraxx"><b>@xxvampiraxx</b></a>
     $\color{#FF85B3}{on}$ $\color{#F7B5D0}{tumblr!}$
   </sub>
 </p>
